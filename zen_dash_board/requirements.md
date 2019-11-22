@@ -25,8 +25,12 @@
 > sudo apt install python3-pip
 
 #### Команды для установки требуемых библиотек:
-> pip3 install pandas;
-> pip3 install dash==1.4.1;
-> pip3 install plotly;
-> pip3 install datetime;
-> pip3 install sqlalchemy; 
+> pip3 install pandas
+
+> pip3 install dash==1.4.1
+
+> pip3 install plotly
+
+> pip3 install datetime
+
+> pip3 install sqlalchemy 
