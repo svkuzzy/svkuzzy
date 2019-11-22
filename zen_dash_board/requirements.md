@@ -20,13 +20,13 @@
 
 > sudo apt install postgresql postgresql-contrib  
 
-#### Eстановка приложения pip для установки библиотек Python:
+#### Установка приложения pip для установки библиотек Python:
 
 > sudo apt install python3-pip
 
-####Команды для установки требуемых библиотек:
-- > pip3 install pandas
-- > pip3 install dash==1.4.1
-- > pip3 install plotly
-- > pip3 install datetime
-- > pip3 install sqlalchemy 
+#### Команды для установки требуемых библиотек:
+> pip3 install pandas
+> pip3 install dash==1.4.1
+> pip3 install plotly
+> pip3 install datetime
+> pip3 install sqlalchemy 
