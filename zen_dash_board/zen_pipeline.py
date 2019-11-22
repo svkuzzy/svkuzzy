@@ -37,8 +37,8 @@ if __name__ == '__main__':
    
 # параметры подключения к базе данных 
     
-    db_config = {'user' : 'my_user',
-                 'pwd' : 'my_user_password',
+    db_config = {'user' : 'user_name',
+                 'pwd' : 'user_password',
                  'host' : 'localhost',
                  'port' : '5432',
                  'db' : 'zen'}
